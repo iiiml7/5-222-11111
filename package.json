@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "rainbowrank.js",
+  "scripts": {
+    "start": "node rainbowrank.js"
+  },
+  "dependencies": {
+    "discord.js": "11.3.0",
+    "request": "2.87.0"
+  }
+}
